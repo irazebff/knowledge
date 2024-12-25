@@ -14,7 +14,7 @@
     "font-awesome": "4.7.0",
     "highlightjs": "9.10.0",
     "liquor-tree": "0.2.32",
-    "vue": "^3.5.13",
+    "vue": "^2.7.16",
     "vue-gravatar": "1.2.1",
     "vue-mq": "0.2.1",
     "vue-router": "3.0.1",
@@ -27,7 +27,7 @@
     "@vue/cli-plugin-eslint": "^3.8.0",
     "@vue/cli-service": "^5.0.8",
     "vue-loader": "^17.4.2",
-    "vue-template-compiler": "^0.1.0",
+    "vue-template-compiler": "^2.7.16",
     "webpack": "^5.96.1"
   },
   "eslintConfig": {
